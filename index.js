@@ -132,8 +132,7 @@ function moveDodger(e) {
    * we've declared for you above.)
    * And be sure to use the functions declared below!
    */
-  const code = e.which
-   })
+    const code = e.which
 }
 
 function moveDodgerLeft() {
