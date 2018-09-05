@@ -120,7 +120,7 @@ function endGame() {
   START.innerHTML = 'Play again?'
   START.style.display = 'inline'
   
-  return 
+  return alert('YOU LOSE!')
 }
 
 function moveDodger(e) {
