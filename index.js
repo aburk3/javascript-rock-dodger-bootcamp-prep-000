@@ -132,6 +132,7 @@ function moveDodger(e) {
    * we've declared for you above.)
    * And be sure to use the functions declared below!
    */
+   
 }
 
 function moveDodgerLeft() {
