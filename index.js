@@ -92,6 +92,7 @@ GAME.appendChild(rock)
      * we should remove the rock from the DOM
      */
   }
+  window.requestAnimationFrame(moveRock)
 
   // We should kick of the animation of the rock around here
 
